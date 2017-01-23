@@ -1,1 +1,11 @@
-Run server_sensor in pi 3 and Visual on your Laptop or Desktop PC
+Run server_sensor.py in pi 3 and visual.py on your Laptop or Desktop PC
+
+Libraries needed in pi 3
+1-web
+2-smbus
+3-math
+
+Libraries needed in python on Laptop
+1-pygame
+2-urllib
+3-OpenGL
